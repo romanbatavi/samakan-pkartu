@@ -1,0 +1,1 @@
+Game samakan kartu menggunakan 
