@@ -27,7 +27,7 @@ function persiapkanKartu(angkaAcak){
 	angkaAcak.forEach(function(i){
 		str += '<div class="kartu" nilai="'+ i +'">'+
 					'<div class="belakang">'+ i +'</div>'+
-					'<div class="depan">wegodev</div>'+
+					'<div class="depan">Kartu</div>'+
 				'</div>';
 	});
 
